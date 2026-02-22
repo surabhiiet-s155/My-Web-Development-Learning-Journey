@@ -73,6 +73,24 @@ Tables help to organize data in rows and columns.
 They make information easy to read and understand.
 
 ---
+## 📅 Day 6 – Multimedia and Other HTML Concepts
+
+### What I Learned 
+- How to add favicon to browser tab  
+- How to write comments in HTML  
+- Difference between block and inline elements  
+
+### Key Takeaway
+I learned how webpages can include icons and structured elements properly.
+
+---
+
+## 💻 Files Uploaded
+- audio_video_day6.html  
+- iframe_day6.html  
+- favicon_day6.html  
+- comments_day6.html  
+- block_inline_day6.html
 
 ## 🎯 Goal
 I want to improve step by step in:
